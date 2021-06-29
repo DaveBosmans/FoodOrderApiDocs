@@ -15,3 +15,4 @@ There will be 2 apps, one for Customers to order and one for the Restaurant Work
 You can switch to a specific version by switching branches in the repository.
 
 # Current Version - 0.1.0
+The full version history [available, here](otherfiles/VersionandChangeLog.md).
