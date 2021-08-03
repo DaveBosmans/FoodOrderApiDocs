@@ -16,7 +16,7 @@
 # Waiter Role
 1. Waiters needs to see a list of orders.
 1. Waiters needs to see details of one order.
-1. Waiters needs to put the order on deliver status.
+1. Waiters needs to put the order on "delivered" status.
 1. Waiters needs to be able to make a local order without paying yet but getting added to the bill of that table. 
 (Big story needs to be broken down.)
 
